@@ -1,0 +1,483 @@
+
+[
+    {
+        "id": 1,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué selección ganó el Mundial de 2010?",
+        "opciones": [
+            "Alemania",
+            "España",
+            "Brasil",
+            "Argentina"
+        ],
+        "correcta": "España"
+    },
+    {
+        "id": 2,
+        "categoria": "Fútbol",
+        "pregunta": "¿En qué equipo debutó Lionel Messi como profesional?",
+        "opciones": [
+            "FC Barcelona",
+            "Newell's Old Boys",
+            "Paris Saint-Germain",
+            "Inter Miami"
+        ],
+        "correcta": "FC Barcelona"
+    },
+    {
+        "id": 3,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué selección ganó el Mundial de 2022?",
+        "opciones": [
+            "Francia",
+            "Argentina",
+            "Croacia",
+            "Brasil"
+        ],
+        "correcta": "Argentina"
+    },
+    {
+        "id": 4,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué equipo ganó la Champions League de 2014?",
+        "opciones": [
+            "Atlético de Madrid",
+            "Real Madrid",
+            "FC Barcelona",
+            "Bayern de Múnich"
+        ],
+        "correcta": "Real Madrid"
+    },
+    {
+        "id": 5,
+        "categoria": "Fútbol",
+        "pregunta": "¿En qué país nació Cristiano Ronaldo?",
+        "opciones": [
+            "España",
+            "Brasil",
+            "Portugal",
+            "Italia"
+        ],
+        "correcta": "Portugal"
+    },
+    {
+        "id": 6,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué selección ganó el Mundial de 2014?",
+        "opciones": [
+            "Argentina",
+            "Alemania",
+            "Brasil",
+            "España"
+        ],
+        "correcta": "Alemania"
+    },
+    {
+        "id": 7,
+        "categoria": "Fútbol",
+        "pregunta": "¿En qué estadio juega como local el Atlético de Madrid desde 2017?",
+        "opciones": [
+            "Santiago Bernabéu",
+            "Metropolitano",
+            "Camp Nou",
+            "San Mamés"
+        ],
+        "correcta": "Metropolitano"
+    },
+    {
+        "id": 8,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué futbolista era conocido como El Pelusa?",
+        "opciones": [
+            "Pelé",
+            "Diego Maradona",
+            "Ronaldinho",
+            "Zinedine Zidane"
+        ],
+        "correcta": "Diego Maradona"
+    },
+    {
+        "id": 9,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué selección ganó la Eurocopa de 2024?",
+        "opciones": [
+            "Inglaterra",
+            "España",
+            "Francia",
+            "Alemania"
+        ],
+        "correcta": "España"
+    },
+    {
+        "id": 10,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué equipo ganó la Champions League de 2015?",
+        "opciones": [
+            "Juventus",
+            "Real Madrid",
+            "FC Barcelona",
+            "Bayern de Múnich"
+        ],
+        "correcta": "FC Barcelona"
+    },
+    {
+        "id": 11,
+        "categoria": "Fútbol",
+        "pregunta": "¿En qué país se celebró el Mundial de 2018?",
+        "opciones": [
+            "Brasil",
+            "Rusia",
+            "Catar",
+            "Alemania"
+        ],
+        "correcta": "Rusia"
+    },
+    {
+        "id": 12,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué futbolista marcó el gol de la victoria de España en la final del Mundial de 2010?",
+        "opciones": [
+            "David Villa",
+            "Fernando Torres",
+            "Andrés Iniesta",
+            "Xavi Hernández"
+        ],
+        "correcta": "Andrés Iniesta"
+    },
+    {
+        "id": 13,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué selección ganó el Mundial de 2006?",
+        "opciones": [
+            "Francia",
+            "Italia",
+            "Alemania",
+            "Brasil"
+        ],
+        "correcta": "Italia"
+    },
+    {
+        "id": 14,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué equipo ganó la primera edición de la Copa de Europa en 1956?",
+        "opciones": [
+            "Real Madrid",
+            "AC Milan",
+            "Benfica",
+            "Manchester United"
+        ],
+        "correcta": "Real Madrid"
+    },
+    {
+        "id": 15,
+        "categoria": "Fútbol",
+        "pregunta": "¿Qué jugador brasileño era conocido como O Rei?",
+        "opciones": [
+            "Ronaldo Nazário",
+            "Pelé",
+            "Neymar",
+            "Ronaldinho"
+        ],
+        "correcta": "Pelé"
+    },
+    {
+        "id": 16,
+        "categoria": "Música",
+        "pregunta": "¿Quién es conocido como el Rey del Pop?",
+        "opciones": [
+            "Elvis Presley",
+            "Michael Jackson",
+            "Freddie Mercury",
+            "Bruno Mars"
+        ],
+        "correcta": "Michael Jackson"
+    },
+    {
+        "id": 17,
+        "categoria": "Música",
+        "pregunta": "¿Qué grupo interpretó Bohemian Rhapsody?",
+        "opciones": [
+            "The Beatles",
+            "Queen",
+            "The Rolling Stones",
+            "Nirvana"
+        ],
+        "correcta": "Queen"
+    },
+    {
+        "id": 18,
+        "categoria": "Música",
+        "pregunta": "¿En qué país nació Shakira?",
+        "opciones": [
+            "México",
+            "Colombia",
+            "España",
+            "Argentina"
+        ],
+        "correcta": "Colombia"
+    },
+    {
+        "id": 19,
+        "categoria": "Música",
+        "pregunta": "¿Qué cantante publicó el álbum Thriller?",
+        "opciones": [
+            "Prince",
+            "Michael Jackson",
+            "Elvis Presley",
+            "Stevie Wonder"
+        ],
+        "correcta": "Michael Jackson"
+    },
+    {
+        "id": 20,
+        "categoria": "Música",
+        "pregunta": "¿Qué artista colombiano interpreta la canción Felices los 4?",
+        "opciones": [
+            "J Balvin",
+            "Maluma",
+            "Karol G",
+            "Feid"
+        ],
+        "correcta": "Maluma"
+    },
+    {
+        "id": 21,
+        "categoria": "Música",
+        "pregunta": "¿Qué banda británica publicó el álbum Abbey Road?",
+        "opciones": [
+            "Queen",
+            "The Beatles",
+            "Coldplay",
+            "Pink Floyd"
+        ],
+        "correcta": "The Beatles"
+    },
+    {
+        "id": 22,
+        "categoria": "Música",
+        "pregunta": "¿Qué cantante interpreta la canción Shape of You?",
+        "opciones": [
+            "Ed Sheeran",
+            "Justin Bieber",
+            "Bruno Mars",
+            "The Weeknd"
+        ],
+        "correcta": "Ed Sheeran"
+    },
+    {
+        "id": 23,
+        "categoria": "Música",
+        "pregunta": "¿Qué cantante es conocida como la Reina del Tex-Mex?",
+        "opciones": [
+            "Jennifer Lopez",
+            "Selena Quintanilla",
+            "Shakira",
+            "Gloria Estefan"
+        ],
+        "correcta": "Selena Quintanilla"
+    },
+    {
+        "id": 24,
+        "categoria": "Música",
+        "pregunta": "¿Qué artista interpreta la canción Bad Romance?",
+        "opciones": [
+            "Rihanna",
+            "Lady Gaga",
+            "Katy Perry",
+            "Madonna"
+        ],
+        "correcta": "Lady Gaga"
+    },
+    {
+        "id": 25,
+        "categoria": "Música",
+        "pregunta": "¿Qué grupo publicó el álbum Nevermind en 1991?",
+        "opciones": [
+            "Metallica",
+            "Nirvana",
+            "Green Day",
+            "Radiohead"
+        ],
+        "correcta": "Nirvana"
+    },
+    {
+        "id": 26,
+        "categoria": "Música",
+        "pregunta": "¿Qué cantante colombiano interpreta la canción La Camisa Negra?",
+        "opciones": [
+            "Carlos Vives",
+            "Juanes",
+            "J Balvin",
+            "Sebastián Yatra"
+        ],
+        "correcta": "Juanes"
+    },
+    {
+        "id": 27,
+        "categoria": "Música",
+        "pregunta": "¿Qué artista interpreta la canción Blinding Lights?",
+        "opciones": [
+            "Drake",
+            "The Weeknd",
+            "Post Malone",
+            "Travis Scott"
+        ],
+        "correcta": "The Weeknd"
+    },
+    {
+        "id": 28,
+        "categoria": "Música",
+        "pregunta": "¿Qué cantante publicó el álbum 21 en 2011?",
+        "opciones": [
+            "Adele",
+            "Taylor Swift",
+            "Beyoncé",
+            "Rihanna"
+        ],
+        "correcta": "Adele"
+    },
+    {
+        "id": 29,
+        "categoria": "Música",
+        "pregunta": "¿Qué grupo interpreta la canción Viva la Vida?",
+        "opciones": [
+            "Maroon 5",
+            "Coldplay",
+            "Imagine Dragons",
+            "OneRepublic"
+        ],
+        "correcta": "Coldplay"
+    },
+    {
+        "id": 30,
+        "categoria": "Música",
+        "pregunta": "¿Qué artista puertorriqueño publicó el álbum Un Verano Sin Ti?",
+        "opciones": [
+            "Daddy Yankee",
+            "Bad Bunny",
+            "Rauw Alejandro",
+            "Ozuna"
+        ],
+        "correcta": "Bad Bunny"
+    },
+    {
+        "id": 31,
+        "categoria": "Cultura pop",
+        "pregunta": "¿Cómo se llama el protagonista de la saga de videojuegos God of War?",
+        "opciones": [
+            "Kratos",
+            "Zeus",
+            "Atreus",
+            "Ares"
+        ],
+        "correcta": "Kratos"
+    },
+    {
+        "id": 32,
+        "categoria": "Cultura pop",
+        "pregunta": "¿Qué actor interpretó a Iron Man en el Universo Cinematográfico de Marvel?",
+        "opciones": [
+            "Chris Evans",
+            "Robert Downey Jr.",
+            "Chris Hemsworth",
+            "Mark Ruffalo"
+        ],
+        "correcta": "Robert Downey Jr."
+    },
+    {
+        "id": 33,
+        "categoria": "Cultura pop",
+        "pregunta": "¿Cómo se llama el protagonista de Dragon Ball?",
+        "opciones": [
+            "Vegeta",
+            "Goku",
+            "Gohan",
+            "Piccolo"
+        ],
+        "correcta": "Goku"
+    },
+    {
+        "id": 34,
+        "categoria": "Cultura pop",
+        "pregunta": "¿Qué personaje es el protagonista principal de la saga Metal Gear Solid?",
+        "opciones": [
+            "Solid Snake",
+            "Raiden",
+            "Revolver Ocelot",
+            "Otacon"
+        ],
+        "correcta": "Solid Snake"
+    },
+    {
+        "id": 35,
+        "categoria": "Cultura pop",
+        "pregunta": "¿En qué ciudad ficticia se desarrolla principalmente GTA V?",
+        "opciones": [
+            "Liberty City",
+            "Vice City",
+            "Los Santos",
+            "San Fierro"
+        ],
+        "correcta": "Los Santos"
+    },
+    {
+        "id": 36,
+        "categoria": "Cultura pop",
+        "pregunta": "¿Cómo se llama el protagonista de la serie Breaking Bad?",
+        "opciones": [
+            "Jesse Pinkman",
+            "Walter White",
+            "Saul Goodman",
+            "Hank Schrader"
+        ],
+        "correcta": "Walter White"
+    },
+    {
+        "id": 37,
+        "categoria": "Cultura pop",
+        "pregunta": "¿Qué personaje de Marvel utiliza un escudo de vibranium?",
+        "opciones": [
+            "Thor",
+            "Capitán América",
+            "Iron Man",
+            "Hulk"
+        ],
+        "correcta": "Capitán América"
+    },
+    {
+        "id": 38,
+        "categoria": "Cultura pop",
+        "pregunta": "¿Cómo se llama el protagonista del manga Berserk?",
+        "opciones": [
+            "Griffith",
+            "Guts",
+            "Zodd",
+            "Serpico"
+        ],
+        "correcta": "Guts"
+    },
+    {
+        "id": 39,
+        "categoria": "Cultura pop",
+        "pregunta": "¿Qué personaje de Los Simpson trabaja en la central nuclear de Springfield?",
+        "opciones": [
+            "Ned Flanders",
+            "Homer Simpson",
+            "Moe Szyslak",
+            "Krusty"
+        ],
+        "correcta": "Homer Simpson"
+    },
+    {
+        "id": 40,
+        "categoria": "Cultura pop",
+        "pregunta": "¿Cómo se llama el protagonista de la saga de videojuegos The Legend of Zelda?",
+        "opciones": [
+            "Zelda",
+            "Link",
+            "Ganondorf",
+            "Sheik"
+        ],
+        "correcta": "Link"
+    }
+]

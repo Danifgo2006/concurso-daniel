@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Quiz DieF - Juego</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+
+<body>
+
+    <main class="contenedor-juego">
+
+        <header class="cabecera-juego">
+
+            <a href="index.html" class="boton-volver">
+                ← Volver
+            </a>
+
+            <div class="logo-quiz">
+                <img src="img/logo-quiz-dief.png" alt="Logo Quiz DieF">
+            </div>
+
+            <div class="informacion-jugador">
+                <span>Jugador:</span>
+                <strong id="nombre-jugador">Cargando...</strong>
+            </div>
+
+        </header>
+
+
+        <section class="panel-ronda">
+
+            <h2 id="titulo-ronda">Ronda 1</h2>
+
+            <p>
+                Responde correctamente a las preguntas
+                para avanzar a la siguiente ronda.
+            </p>
+
+        </section>
+
+
+        <section id="contenedor-preguntas" class="contenedor-preguntas">
+        </section>
+
+
+        <div class="contenedor-boton">
+
+            <button id="boton-comprobar" type="button">
+                Comprobar respuestas
+            </button>
+
+        </div>
+
+
+        <section id="resultado" class="resultado" aria-live="polite" hidden>
+        </section>
+
+    </main>
+
+
+    <script src="js/juego.js"></script>
+
+</body>
+
+</html>
